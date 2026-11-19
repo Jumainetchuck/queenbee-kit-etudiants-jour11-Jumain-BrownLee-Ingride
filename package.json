@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "name": "queenbee-kit-etudiants-jour1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gihtub:Jumainetchuck/queenbee-kit-etudiants-jour11-Jumain-BrownLee-Ingride.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
