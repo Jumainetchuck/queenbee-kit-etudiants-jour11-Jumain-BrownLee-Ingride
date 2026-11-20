@@ -42,3 +42,27 @@
 - [x] GET /api/hives/XX-NOPE-999 renvoie 404
 - [x] Une mesure créée renvoie 201, pas 200
 - [x] Chaque requête apparaît une seule fois dans le journal
+
+# TP3
+## contrat du projet:
+ ./docs/api.md
+
+# TP4:
+## rendu:
+
+```
+npm test
+  > queenbee-kit-etudiants-jour1@1.0.0 test
+  > node --test
+
+  ✔ refuse un poids hors de sa plage physique (1.261379ms)
+  ✔ enregistre une mesure valide (4.102468ms)
+  ℹ tests 2
+  ℹ suites 0
+  ℹ pass 2
+  ℹ fail 0
+  ℹ cancelled 0
+  ℹ skipped 0
+  ℹ todo 0
+  ℹ duration_ms 80.159935
+```
